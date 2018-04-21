@@ -1,5 +1,5 @@
 # location
-js获取页面URL地址，判断URL是否包含具体值
+### js获取页面URL地址，判断URL是否包含具体值
 
 window.location.pathname　//设置或获取对象指定的文件名或路径
 
@@ -20,6 +20,8 @@ window.location.hostname　//设置或获取 location 或 URL 的 hostname 和 p
 window.location.search　//设置或获取 href 属性中跟在问号后面的部分
 
 window.location　//属性 描述 hash 设置或获取 href 属性中在井号“#”后面的分段javascript判断字符串中是否包含某字符串
+
+
 
 
 indexOf函数方法示例用法： 
